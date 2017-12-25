@@ -3,7 +3,7 @@ library(shinythemes)
 
 # Define UI for application
 ui <- fluidPage(theme = shinytheme("darkly"),
-                titlePanel("Shiny Widgets"),
+                titlePanel("Shiny Widgets--Sina"),
                 
                 sidebarLayout(
                   
